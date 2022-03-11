@@ -1,0 +1,28 @@
+body{
+    /*Utiliza el atributo "font-family" con tres valores separados por coma, por sí falla alguno*/
+    font-family: Arial, Helvetica, sans-serif;
+    color: peru;
+    width: 500px;
+    height: auto;
+}
+.encabezados{
+    color: blueviolet;
+    background-color: aquamarine;
+    width: 500px;
+
+
+}
+
+h1{
+    color: blue;
+}
+
+.img1{
+    width: 400px;
+    /*height: auto;*/
+}
+
+#parrafos{
+    width: 1000px;
+    background-color: cadetblue;
+}
